@@ -89,7 +89,7 @@ public void complogic(int num) {
 }
 
 TTT1() {
-super("Tic Tac Toe by Apoorva");
+super("Tic Tac Toe by Divyang");
 
 CheckboxGroup cbg=new CheckboxGroup();
 c1=new Checkbox("vs computer",cbg,false);
